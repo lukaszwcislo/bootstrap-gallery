@@ -1,0 +1,41 @@
+body
+{
+	background-color: #151617;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    background: linear-gradient(to right, #151617, #151617);
+}
+
+h1
+{
+	font-size: 42px;
+	font-weight: 400;
+	color: #60b8ff;
+	margin: 20px;
+}
+
+.jumpers
+{
+	text-align: center;
+}
+
+
+/*
+.jumpers img {
+    width: 100%;  ========> nadane w bootstrap wartości dla klasy img-fluid //===
+    height: auto;
+}  
+*/
+
+.jumpers p {
+    margin-bottom:  30px;
+    font-size: 1.2em;
+}
+
+.jumpers figcaption {
+    margin-top:  8px;
+    font-size: 20px;
+}
+
+
